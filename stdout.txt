@@ -1,0 +1,9 @@
+Welcome to Pingus 0.7.6!
+========================
+userdir:                 C:/Users/ஐ/AppData/Roaming/Pingus/
+datadir:                 data
+language:                Tamil (ta)
+sound support:           enabled
+music support:           enabled
+fullscreen:              disabled
+
